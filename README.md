@@ -10,6 +10,8 @@
 ![结果](images/guitarV1G4.png)  
 ![查询](images/guitarV1C5.png)  
 ![结果](images/guitarV1G5.png)  
+### 随便输入，显示错误
+![错误](images/sbs.png)
 
 
 
