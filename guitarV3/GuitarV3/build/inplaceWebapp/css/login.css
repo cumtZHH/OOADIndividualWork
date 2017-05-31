@@ -1,0 +1,17 @@
+/*topBar*/
+a:hover{text-decoration:none;}
+.p{font-size:30px;font-family:"华文行楷";margin-top:50px;margin-right:90px;color:#000000;float:right;}
+.login-box{padding:15px 40px;}
+.login li{padding-top:10px;}
+.l-tit{color:#6C6C6C;}
+.form-control{width:400px;}
+.checkbox{color:#6C6C6C;}
+.reg-partner{color:#6C6C6C;}
+.reg-partner a{color:#6C6C6C;}
+.reg-partner a:hover{text-decoration:none;color:#ABABAB;}
+.l-button{background-color:#990000;font-size:18px;font-family:"幼圆";}
+.forget{float:right;}
+.forget a{color:#6C6C6C;}
+.forget a:hover{text-decoration:none;color:#ABABAB;}
+/*底部*/
+.alc{font-size:10px; margin-left:250px;}
