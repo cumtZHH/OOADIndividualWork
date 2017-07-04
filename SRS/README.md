@@ -47,8 +47,8 @@
 # 查询成绩  
 ![](images/成绩.PNG)  
 # 测试  
-![](images/addCourseTest.png)  
-![](images/addProfessor.png)
+![](images/addCourseTest.PNG)  
+![](images/addProfessor.PNG)
 
 
 
