@@ -9,7 +9,11 @@
 ![](images/shujuku.PNG)  
 # 领域模型  
 ![](images/1.png)  
-## 登录  
+# 选课流程图
+![](images/选课流程图.png)  
+# 查询成绩流程图  
+![](images/查询成绩流程图.png)
+## 登录  
 ![](images/login.png)  
 ## 进入教师操作界面添加教师  
 ![](images/添加教师.PNG)  
