@@ -6,7 +6,7 @@
 # 领域模型  
 ![](images/1.png)  
 ## 登录  
-![](images/登录.PNG)  
+![](images/login.PNG)  
 ## 进入教师操作界面添加教师  
 ![](images/添加教师.PNG)  
 ## 删除教师  
