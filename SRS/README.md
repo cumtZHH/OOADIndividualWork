@@ -1,4 +1,8 @@
-# 项目结构  
+### 老师，我自己的还没做出来，SRStest2是我自己的框架，SRStest1是参考的别人的写的，做出来之后我会再次上传的，您按照原来的打分就行。
+# 项目结构
+## SRStest2的结构
+![](images/kuangjia2.png)  
+## SRStest1的结构  
 ![](images/结构图1.png)  
 ![](images/结构图2.png)  
 # 数据库结构  
