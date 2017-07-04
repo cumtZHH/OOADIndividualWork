@@ -45,8 +45,10 @@
 ## 选课条件判断——课程计划是否包含该课程  
 ![](images/不包含该课程.PNG)  
 # 查询成绩  
-![](images/成绩.PNG)
-
+![](images/成绩.PNG)  
+# 测试  
+![](images/addCourseTest.png)  
+![](images/addProfessor.png)
 
 
 
