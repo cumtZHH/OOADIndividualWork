@@ -2,7 +2,7 @@
 ![](images/结构图1.png)  
 ![](images/结构图2.png)  
 # 数据库结构  
-![](images/shujuku.png)  
+![](images/shujuku.PNG)  
 # 领域模型  
 ![](images/1.png)  
 ## 登录  
